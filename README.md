@@ -27,13 +27,13 @@ This Python-based CLI (Command Line Interface) application is designed to scan a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/network-scanner.git
+    git clone https://github.com/Mf-malaak/Network-simple-Tool-kit.git
     ```
 
 2. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r _requirements.txt
     ```
 
 ### Running the Scanner
