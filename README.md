@@ -41,13 +41,13 @@ This Python-based CLI (Command Line Interface) application is designed to scan a
 1. Navigate to the project directory:
 
     ```bash
-    cd network-scanner
+    cd Network-simple-Tool-kit
     ```
 
 2. Execute the script:
 
     ```bash
-    python network_scanner.py
+    python main.py
     ```
 
 ### Example Usage
